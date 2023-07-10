@@ -1,0 +1,5 @@
+DROP VIEW IF EXISTS [dbo].[bing_covid-19_data_brasil]
+DROP VIEW IF EXISTS [dbo].[bing_covid-19_data_brasil_estados]
+DROP VIEW IF EXISTS [dbo].[bing_covid-19_data_brasil_pe]
+DROP VIEW IF EXISTS [dbo].[bing_covid-19_data_brasil_sp]
+DROP VIEW IF EXISTS [dbo].[bing_covid-19_data_mundo]
