@@ -1,5 +1,3 @@
-DROP VIEW IF EXISTS [bing_covid-19_data_brasil]
-
 CREATE VIEW [bing_covid-19_data_brasil]
 AS
 SELECT DATEPART(YEAR,[updated]) [year], DATEPART(MONTH,[updated]) [month], DATEPART(DAY,[updated]) [dayofmonth], * 
